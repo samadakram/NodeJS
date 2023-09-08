@@ -1,0 +1,3 @@
+data=Baloch&data2=ALi
+data=samad+Akram&data2=Balocxh
+data=Test+1&data2=Test+1+a
